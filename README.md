@@ -5,10 +5,14 @@ Company Name : Goldman Sachs
 Questions :
 
 1. [Given an array of strings, return all groups of strings that are anagrams.](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/) 
-[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q1.java)
+
+=>[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q1.java)
 2. [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)
-[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q2.java)
-3. Count the subarrays having product less than k
+
+=>[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q2.java)
+3. [Count the subarrays having product less than k](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)
+
+=>=>[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q3.java)
 4. Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string. eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys)
 5. Program to find Nth Ugly Number.
 6. Given two strings str1 and str2. We say that str2 divides str1 if it's possible to concatenate multiple str2 to get str1. For example, ab divides abab. if str2 does not divide str1, return -1. Otherwise, return the smallest string str3 such that str3 divides both str1 and str2.
