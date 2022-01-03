@@ -5,8 +5,9 @@ Company Name : Goldman Sachs
 Questions :
 
 1. [Given an array of strings, return all groups of strings that are anagrams.](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/) 
-Solved [https://github.com/simrank0/6Companies30days/blob/main/Q1.java]
+[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q1.java)
 2. [Overlapping rectangles](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)
+[Solved](https://github.com/simrank0/6Companies30days/blob/main/Q2.java)
 3. Count the subarrays having product less than k
 4. Given a string, Your task is to  complete the function encode that returns the run length encoded string for the given string. eg if the input string is “wwwwaaadexxxxxx”, then the function should return “w4a3d1e1x6″.(Modified version of question named Cute Monkeys)
 5. Program to find Nth Ugly Number.
